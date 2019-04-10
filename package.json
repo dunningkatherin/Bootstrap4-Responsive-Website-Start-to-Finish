@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap4responsivewebsite",
+  "version": "1.0.0",
+  "description": "Boot Strap 4 Responsive Website",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dunningkatherin/Bootstrap4-Responsive-Website-Start-to-Finish.git"
+  },
+  "author": "Kathy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dunningkatherin/Bootstrap4-Responsive-Website-Start-to-Finish/issues"
+  },
+  "homepage": "https://github.com/dunningkatherin/Bootstrap4-Responsive-Website-Start-to-Finish#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0"
+  }
+}
